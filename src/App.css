@@ -1,0 +1,11 @@
+body {
+  background-color: #224549;
+}
+svg {
+  font-size: 2rem;
+}
+.line-through {
+  text-decoration: line-through solid #adadad 3px;
+  text-align: center;
+  color: #1b1b1ba2;
+}
